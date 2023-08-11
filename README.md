@@ -11,7 +11,7 @@
 <div align="center">
 
  <a href="https://github.com/mini-boo/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=mini-boo" alt="Anurag's GitHub stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=mini-boo" alt="GitHub stats">
     </a>
     
 <a href="https://github.com/mini-boo/github-readme-stats">

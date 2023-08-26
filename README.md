@@ -15,7 +15,7 @@
     </a>
     
 <a href="https://github.com/mini-boo/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mini-boo&layout=compact"  width="47%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mini-boo&layout=compact"  width="45.5%">
     </a>
     
 </div>

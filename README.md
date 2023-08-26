@@ -11,11 +11,11 @@
 <div align="center">
 
  <a href="https://github.com/mini-boo/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=mini-boo" alt="GitHub stats" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=mini-boo" alt="GitHub stats" width="45%">
     </a>
     
 <a href="https://github.com/mini-boo/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mini-boo&layout=compact"  width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mini-boo&layout=compact"  width="42%">
     </a>
     
 </div>

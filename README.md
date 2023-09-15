@@ -50,4 +50,11 @@
  <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>  
  &nbsp
 </div>
+
+<br>
+<br>
+
+  <h3>
+✒️ My Skill ✒️
+</h3>  &nbsp
 </div>

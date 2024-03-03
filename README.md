@@ -1,7 +1,7 @@
 <div align="center">
 <h3> 🐿️HYUNSOO KIM🐿️</h3>
   <br>
-❄️HYUNSOO's BLOG❄️  https://bakkgomm.tistory.com/
+❄️HYUNSOO's BLOG❄️  https://velog.io/@mini-boo/posts
   <br>
 ❄️HYUNSOO's ALGORITHM❄️  https://www.acmicpc.net/user/sgn06221
 </div>

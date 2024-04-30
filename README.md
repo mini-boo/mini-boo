@@ -3,6 +3,7 @@
   <br>
 ❄️다부진 미래를 만들어가는 개발자, 김현수입니다.❄️
   <br>
+    <br>
 ❄️I'm Kim Hyun-soo, a developer who is creating a sluggish future.❄️
 </div>
 

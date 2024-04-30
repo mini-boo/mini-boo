@@ -1,9 +1,9 @@
 <div align="center">
 <h3> 🐿️HYUNSOO KIM🐿️</h3>
   <br>
-❄️HYUNSOO's BLOG❄️  https://velog.io/@mini-boo/posts
+❄️다부진 미래를 만들어가는 개발자, 김현수입니다.❄️
   <br>
-❄️HYUNSOO's ALGORITHM❄️  https://www.acmicpc.net/user/sgn06221
+❄️I'm Kim Hyun-soo, a developer who is creating a sluggish future.❄️
 </div>
 
 <hr>

@@ -71,12 +71,15 @@
  <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>
  <img src="https://img.shields.io/badge/sourcetree-0052CC?style=flat-square&logo=sourcetree&logoColor=white"/>
  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
- <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>
   <br>
 <img src="https://img.shields.io/badge/postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/dbeaver-382923?style=flat-square&logo=dbeaver&logoColor=white"/>
 <img src="https://img.shields.io/badge/mobaxterm-382923?style=flat-square&logo=mobaxterm&logoColor=white"/>
- <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+ <br>
+ <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
+<img src="https://img.shields.io/badge/microsoft Loop-8b00ff?style=flat-square&logo=microsoftLoop&logoColor=white"/>
  &nbsp
 </div>
 

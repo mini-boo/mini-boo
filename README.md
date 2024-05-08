@@ -76,6 +76,7 @@
 <img src="https://img.shields.io/badge/dbeaver-382923?style=flat-square&logo=dbeaver&logoColor=white"/>
 <img src="https://img.shields.io/badge/mobaxterm-382923?style=flat-square&logo=mobaxterm&logoColor=white"/>
  <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+ 
  <br>
  <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
@@ -86,3 +87,18 @@
 <br>
 <br>
 </div>
+
+<hr>
+<div>
+  <h3> 🐿️AWARDS🐿️</h3>
+  <br>
+  2023.07 &nbsp&nbsp&nbsp&nbsp 멀티캠퍼스 최종프로젝트 최우수상
+    <br>
+  2022.12 &nbsp&nbsp&nbsp&nbsp 한국자산관리공사-부경대 연구협력 프로젝트 최우수상
+    <br>
+  2021.12 &nbsp&nbsp&nbsp&nbsp 삼성카드 넥스티 서포터즈 1기 활동 최우수상
+    <br>
+  2021.02 &nbsp&nbsp&nbsp&nbsp 부경대 LINK+ 사업단 여성과학기술 전문 인력 양성과정 장려상
+  
+</div>
+<hr>

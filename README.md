@@ -10,6 +10,13 @@
 <hr>
 
 <div align="center">
+  <h3> 🐿️CAREER🐿️</h3>
+  <br>
+  2024.04~현재 &nbsp&nbsp&nbsp&nbsp (주) 에스에스앤씨 제 1연구소 소속 백엔드 개발자
+</div>
+<hr>
+
+<div align="center">
 
  <a href="https://github.com/mini-boo/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=mini-boo" alt="GitHub stats" width="45%">

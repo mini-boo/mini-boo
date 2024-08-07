@@ -63,7 +63,7 @@
 </h3>  &nbsp
 <div style="display: flex;">
  <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=white"/> 
- <img src="https://img.shields.io/badge/Windows-F80000?style=flat-square&logo=Windows&logoColor=white"/>  
+ <img src="https://img.shields.io/badge/Microsoft Windows-F80000?style=flat-square&logo=MicrosoftWindows&logoColor=white"/>  
  &nbsp
 </div>
 
